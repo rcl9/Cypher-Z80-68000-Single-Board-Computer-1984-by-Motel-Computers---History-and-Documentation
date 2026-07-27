@@ -1,6 +1,6 @@
-# Cypher Z80/68000 Single Board Computer (of the 1984 era)
+# History of the Canadian Motel Computers' "Cypher Z80/68000 Single Board Computer" (of the 1984-1986 era)
 
-This repository strives to provide a historical snapshot, archive and description of the short lived Cypher Z80/68000 single board computer which was designed, built and sold by Motel Computers of Willowdale Ontario. 
+This repository strives to provide a historical snapshot, archive and description of the short lived Cypher Z80/68000 single board computer which was designed, built and sold by Motel Computers of Willowdale Ontario in the 1984-86 era. It was believed at the time that CP/M-based computers would (ideally) remain the dominant operating system well into the early to mid 1980s. The Cypher SBC arrived in the 1983-1984 era when CP/M-68k and 68000 CPUs were becoming more readily available. What the designers of the Cypher computer did not foresee was the rise and dominance of the IBM PC, DOS and 8086 processors which would have been a prime reason that the company disbanded the project in 1986.
 
 <div style="text-align:center">
 <img src="/Images/Motel Computers Z80-68000 board.jpg" alt="" style="width:100%; height:auto;">
@@ -16,11 +16,13 @@ The photo above shows a Shugart 1610-3G SASI controller card attached to the Cyp
 
 ## Refer to these other related repositories
 
-- [How to Boot CP/M-3 from the HxC Floppy Emulator on the Cypher Z80/68000 SBC](https://github.com/rcl9/Cypher-Z80-68000-Single-Board-Computer---Running-CPM-3-via-the-HxC-Floppy-Emulator/blob/main/Readme.md)
+- [How to Boot CP/M-3 from the HxC Floppy Emulator on the Cypher Z80/68k SBC](https://github.com/rcl9/Cypher-Z80-68000-Single-Board-Computer---Running-CPM-3-via-the-HxC-Floppy-Emulator/blob/main/Readme.md)
 
 - [Parallel I/O, SASI Controller and R-Bus Interfaces Expansion Board for the Cypher Z80/68k SBC](https://github.com/rcl9/Cypher-Z80-68000-Single-Board-Computer----Expansion-Board)
 
-- [Port Organizer and Break-Out Box Add-On for the Cypher Z80/68000 SBC](https://github.com/rcl9/Cypher-Z80-68000-Single-Board-Computer----Port-Organizer-Add-On)
+- [Port Organizer and Break-Out Box Add-On for the Cypher Z80/68k SBC](https://github.com/rcl9/Cypher-Z80-68000-Single-Board-Computer----Port-Organizer-Add-On)
+
+- [A new 'MacGyver Inspired' Support Structure for the Cypher Z80/68k Single Board Computer](https://github.com/rcl9/MacGyver-Inspired-Support-Structure-For-The-Cypher-Z80-68000-SBC)
 
 - [Imagery of Past-Projects](https://github.com/rcl9/Imagery-of-Past-Projects)
 
