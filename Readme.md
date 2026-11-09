@@ -14,6 +14,12 @@ The curator of this repository purchased his board in July 1984 (without any har
 
 The photo above shows a Shugart 1610-3G SASI controller card attached to the Cypher machine via the curator's [Cypher Expansion Board](https://github.com/rcl9/Cypher-Z80-68000-Single-Board-Computer----Expansion-Board) and its then-new SASI interface port. The SASI card is attached to a MiniScribe Winchester 3425 22MB hard disk (April 1986 manufacture) configured as two 11MB drives. There is also a 5-1/4" 80-track Mitsubishi 4853 floppy disk to read and write Semitech Pied-Piper diskettes. The hard disk was purchased on June 4 1986 for CDN\$568 and the controller board for CDN\$275 (in 1986 dollars, which is about 3x CPI). 
 
+<div style="text-align:center">
+<img src="/Images/Setup from 2007_02_07.webp" alt="" style="width:70%; height:auto;">
+</div>
+
+The photo above shows the machine being tested in February 2007 before its reconfiguration in 2026. In particular it shows the NEC 7220 graphics chip driving an IBM PC EGA monitor on the left. The [Volker Craig 4404](<https://museum.eecs.yorku.ca/items/show/301>) (NABU) terminal keyboard is shown on the lower-right; I had reversed engineered the RS-232 serial protocol of the keyboard back in the mid 1980s to allow it to be connected to the Cypher machine. 
+
 ## Refer to these other related repositories
 
 - [How to Boot CP/M-3 from the HxC Floppy Emulator on the Cypher Z80/68k SBC](https://github.com/rcl9/Cypher-Z80-68000-Single-Board-Computer---Running-CPM-3-via-the-HxC-Floppy-Emulator/blob/main/Readme.md)
@@ -59,3 +65,22 @@ A 1984-1986 potted history of the computer is outlined in this separate [documen
 ## Related Documentation
 
 As a reference for other Cypher SBC owners, and for future historical context, this repository contains scanned copies  of the author's own collection of related documentation about the machine, both from himself and from the various software distributions between 1984 through to 1987. 
+
+- [Cypher - Motel Computers - Manual  - May 1985 - v1.1](</Manuals/Cypher - Motel Computers - Manual  - May 1985 - v1.1.pdf>)
+
+- [Product brief] (</Manuals/Cypher - Motel Computers - Product brief.pdf>)
+
+- [Technical overview] (</Manuals/Cypher - Motel Computers - Technical overview.pdf>)
+
+- [CBIOS v3.1 Summary Sheet] (</Manuals/Cypher - Motel Computers - CBIOS v3.1 Summary Sheet.pdf>)
+
+- [Cypher Library Summary Shee] (</Manuals/Cypher - Motel Computers - Cypher Library Summary Sheet.pdf>)
+
+- [DRAM add-on circuit fix] (</Manuals/Cypher - Motel Computers - DRAM add-on circuit fix.pdf>)
+
+- [68k DMA hardware fix] (</Manuals/Cypher - Motel Computers - 68k DMA hardware fix.pdf>)
+
+- [Shugart 1610-3 SASI-SCSI rigid disk controller card - Functional spec] (</Manuals/Shugart 1610-3 SASI-SCSI rigid disk controller card - Functional spec.pdf>)
+
+
+
