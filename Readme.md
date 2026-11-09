@@ -68,19 +68,19 @@ As a reference for other Cypher SBC owners, and for future historical context, t
 
 - [Cypher - Motel Computers - Manual  - May 1985 - v1.1](</Manuals/Cypher - Motel Computers - Manual  - May 1985 - v1.1.pdf>)
 
-- [Product brief] (</Manuals/Cypher - Motel Computers - Product brief.pdf>)
+- [Product brief](</Manuals/Cypher - Motel Computers - Product brief.pdf>)
 
-- [Technical overview] (</Manuals/Cypher - Motel Computers - Technical overview.pdf>)
+- [Technical overview](</Manuals/Cypher - Motel Computers - Technical overview.pdf>)
 
-- [CBIOS v3.1 Summary Sheet] (</Manuals/Cypher - Motel Computers - CBIOS v3.1 Summary Sheet.pdf>)
+- [CBIOS v3.1 Summary Sheet](</Manuals/Cypher - Motel Computers - CBIOS v3.1 Summary Sheet.pdf>)
 
-- [Cypher Library Summary Shee] (</Manuals/Cypher - Motel Computers - Cypher Library Summary Sheet.pdf>)
+- [Cypher Library Summary Shee](</Manuals/Cypher - Motel Computers - Cypher Library Summary Sheet.pdf>)
 
-- [DRAM add-on circuit fix] (</Manuals/Cypher - Motel Computers - DRAM add-on circuit fix.pdf>)
+- [DRAM add-on circuit fix](</Manuals/Cypher - Motel Computers - DRAM add-on circuit fix.pdf>)
 
-- [68k DMA hardware fix] (</Manuals/Cypher - Motel Computers - 68k DMA hardware fix.pdf>)
+- [68k DMA hardware fix](</Manuals/Cypher - Motel Computers - 68k DMA hardware fix.pdf>)
 
-- [Shugart 1610-3 SASI-SCSI rigid disk controller card - Functional spec] (</Manuals/Shugart 1610-3 SASI-SCSI rigid disk controller card - Functional spec.pdf>)
+- [Shugart 1610-3 SASI-SCSI rigid disk controller card - Functional spec](</Manuals/Shugart 1610-3 SASI-SCSI rigid disk controller card - Functional spec.pdf>)
 
 
 
